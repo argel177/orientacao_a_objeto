@@ -161,7 +161,6 @@ public class mainHotel {
 
                     break;
 
-                // ENCERRAR
                 case 5:
 
                     System.out.println("\nEncerrando Atendimento...");
